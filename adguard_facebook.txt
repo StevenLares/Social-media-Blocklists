@@ -1,7 +1,3 @@
-# This blocklist helps Adguard admin restrict access to Facebook and its domains.
-# Curated from sources online.
-# Last updated: 9 december 2019
-
 ||apps.facebook.com^
 ||connect.facebook.net^
 ||facebook.com^
@@ -831,3 +827,5 @@
 ||nl-nl.facebook.com^
 ||fb.watch^
 ||facebookcorewwwi.onion^
+||nl-be.facebook.com^
+

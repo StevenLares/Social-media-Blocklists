@@ -1,5 +1,3 @@
-# This blocklist helps Adguard restrict access to Streamz and its domains.
-
 ||lfvp-ios-api.dpgmedia.net^
 ||videoplayer-service.dpgmedia.net^
 ||drm.mp.lura.live^

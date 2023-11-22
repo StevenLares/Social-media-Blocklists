@@ -1,0 +1,8 @@
+lfvp-ios-api.dpgmedia.net
+videoplayer-service.dpgmedia.net
+drm.mp.lura.live
+video-scrub-images.persgroep.be
+dcs-vod.mp.lura.live
+lfvp-api.dpgmedia.net
+video-od.dpgmedia.net
+images3.persgroep.net

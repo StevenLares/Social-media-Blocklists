@@ -1,9 +1,0 @@
-# This blocklist helps Adguard admin restrict access to snapchat and its domains.
-# Curated from sources online.
-
-||snapchat.com^
-||sc-cdn.net^
-||snap-dev.net^
-||snapkit.co
-||snapads.com^
-||impala-media-production.s3.amazonaws.com^

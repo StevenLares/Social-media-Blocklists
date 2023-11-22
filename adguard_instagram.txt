@@ -1,7 +1,3 @@
-# This blocklist helps Adguard admin restrict access to instagram and its domains.
-# Curated from sources online.
-# Last updated: 9 december 2019
-
 ||api.instagram.com^
 ||black.ish.instagram.com^
 ||i.instagram.com^

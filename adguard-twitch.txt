@@ -1,7 +1,0 @@
-# This blocklist helps Adguard admin restrict access to twitch and its domains.
-# Curated from sources online.
-
-||twitch.tv^
-||ttvnw.net^
-||jtvnw.net^
-||twitchcdn.net^

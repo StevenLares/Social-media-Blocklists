@@ -1,0 +1,8 @@
+pubads.g.doubleclick.net
+*.theoplayer.com
+wp-a700000000000000.id.cdn1.prd.telenet-ops.be
+*.viervijfzes.be
+*.goplay.be
+*.googlevideo.com
+*.gvt1.com
+stream1-vod.cdn1.sbs.prd.telenet-ops.be

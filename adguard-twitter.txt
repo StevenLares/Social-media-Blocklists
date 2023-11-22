@@ -1,7 +1,0 @@
-# This blocklist helps Adguard admin restrict access to twitter and its domains.
-# Curated from sources online.
-
-||twitter.com^
-||twttr.com^
-||t.co^
-||twimg.com^

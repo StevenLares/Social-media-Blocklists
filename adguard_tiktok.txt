@@ -1,7 +1,3 @@
-# This blocklist helps Adguard admin restrict access to tiktok and its domains.
-# Curated from sources online.
-# Last updated: 9 december 2019
-
 ||api-h2.tiktokv.com^
 ||api21-h2.tiktokv.com^
 ||ns-440.awsdns-55.com^

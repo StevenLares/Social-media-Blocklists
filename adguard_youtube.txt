@@ -1,7 +1,3 @@
-# This blocklist helps Adguard admin restrict access to youtube and its domains.
-# Curated from sources online.     https://github.com/mcintosh109/Pi-Hole_my_blocklist
-# Last updated: 11 december 2019
-
 ||youtube.com^
 ||googlevideo.com^
 ||r3---sn-o097znlk.googlevideo.com^

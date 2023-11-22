@@ -1,7 +1,0 @@
-# This blocklist helps Adguard admin restrict access to reddit and its domains.
-# Curated from sources online.
-
-||reddit.com^
-||redditstatic.com^
-||redditmedia.com^
-||redd.it^

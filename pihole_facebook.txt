@@ -1,20 +1,9 @@
-# This blocklist helps Pi-hole's admin restrict access to Facebook and its domains.
-# Curated from sources online.
-# Last updated: 9 december 2019
-
 apps.facebook.com
 connect.facebook.net
 facebook.com
-ru-ru.facebook.com
-nl-nl.facebook.com
-nl-be.facebook.com
 fbcdn.com
 fbsbx.com
 fbcdn.net
-facebook.net
-facebook.com.edgesuite.net
-facebook.com.edgekey.net
-tfbnw.net
 graph.facebook.com
 login.facebook.com
 s-static.ak.facebook.com
@@ -451,7 +440,6 @@ scontent-a-vie.xx.fbcdn.net
 scontent-a.xx.fbcdn.net
 scontent-ams.xx.fbcdn.net
 scontent-ams3-1.xx.fbcdn.net
-scontent-amt2-1.xx.fbcdn.net
 scontent-atl.xx.fbcdn.net
 scontent-b-ams.xx.fbcdn.net
 scontent-b-atl.xx.fbcdn.net
@@ -824,8 +812,20 @@ sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 fb.com
 newsroom.fb.com
 investor.fb.com
+scontent-amt2-1.xx.fbcdn.net
 lithium.facebook.com
 lookaside.facebook.com
 mqtt-mini.facebook.com
 external-ams3-1.xx.fbcdn.net
+facebook.net
+facebook.com.edgesuite.net
+facebook.com.edgekey.net
+tfbnw.net
 facebook.net.edgekey.net
+fbsbx.com.online-metrix.net
+ru-ru.facebook.com
+nl-nl.facebook.com
+fb.watch
+facebookcorewwwi.onion
+nl-be.facebook.com
+
