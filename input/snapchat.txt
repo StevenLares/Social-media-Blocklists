@@ -4,3 +4,9 @@ snap-dev.net
 snapkit.co
 snapads.com
 impala-media-production.s3.amazonaws.com
+aws.api.snapchat.com
+gcp.api.snapchat.com
+static.snapchat.com
+story.snapchat.com
+us-central1-gcp.api.snapchat.com
+www.snapchat.com
